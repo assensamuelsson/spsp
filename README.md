@@ -1,0 +1,2 @@
+# spsp
+Simple PubSub Protocol
